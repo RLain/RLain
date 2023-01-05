@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RLain
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Javascript & Python
+- 🌱 I’m currently learning Javascript, Python & Bash
 - 📫 How to reach me https://www.linkedin.com/in/rebecca-lain/
 
 <!---
