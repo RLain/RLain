@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💡 Future Project Ideas
 - https://github.com/public-apis/public-apis
-- https://xkcd.com/json.html](https://github.com/OfferZen-Community/plant_tech_ams)
+- https://github.com/OfferZen-Community/plant_tech_ams
 
 🌱 Plant APIs:
 - https://github.com/openfarmcc/OpenFarm
