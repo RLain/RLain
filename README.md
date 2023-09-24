@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RLain
-- 👀 I’m interested in Typescript/Javascript & Python and enjoy building express and node.js applications
-- 🌱 I’m currently learning Typescript, Javascript, Python & Bash
+- 🌱 I’m currently learning Typescript, Python & a little bit of C++ #Arduino
 - 📫 How to reach me https://www.linkedin.com/in/rebecca-lain/
 
 <!---
