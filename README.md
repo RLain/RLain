@@ -4,6 +4,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/rebecca-lain/
 
 ℹ️ May 2024 after joining Feed Me Seymour - I moved from Github to Gitlab. Hence the contribution disappearance 😉 ➡️ https://gitlab.com/rebecca.lain
+Why the reduction in pushed from 2024 to 2025? I improved my push workflow to reduce unecessary pipeline executions:
 
 <img width="1231" alt="Screenshot 2025-05-16 at 08 55" src="https://github.com/user-attachments/assets/d0a63729-bd5a-4052-bd8d-c4ed74a63d79" />
 Image taken 2025-05-16
