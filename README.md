@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RLain
-- 👩‍💻 Working as a Developer at [Feed Me Seymour](https://www.linkedin.com/company/feed-me-seymour?originalSubdomain=uk)
+- 👩‍💻 Working as a Developer at [Feed Me Seymour](https://www.linkedin.com/company/feed-me-seymour?originalSubdomain=uk){:target="_blank"} 
 - 🌱 I’m currently learning Typescript, Python & a little bit of C++ #Arduino
 - 📫 How to reach me https://www.linkedin.com/in/rebecca-lain/
 
